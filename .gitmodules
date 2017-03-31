@@ -1,0 +1,3 @@
+[submodule "org.antlr.jetbrains.adaptor"]
+	path = org.antlr.jetbrains.adaptor
+	url = git@github.com:antlr/jetbrains.git
